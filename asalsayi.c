@@ -1,4 +1,4 @@
-/* Dizide kaç tane asal sayı olduğunu paralel olarak bulan kod... */
+/* Dizide kaç tane asal sayı olduğunu paralel olarak Pthread uygulaması */
 
 #include <stdlib.h>
 #include <pthread.h>
