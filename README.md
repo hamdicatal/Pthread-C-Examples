@@ -2,5 +2,5 @@
 
 Pthread kullanarak yazmış olduğum, paralel olarak çalışan örnek uygulamalar...
 
-## -Pthread uygulamalarını çalıştırabilmek için; 
+## Pthread uygulamalarını çalıştırabilmek için; 
 Derleme esnasında "-lpthread" parametresi eklenmelidir...
